@@ -15,7 +15,7 @@ export default function Home() {
           {/* Modern Badge */}
           <div className="inline-flex items-center px-4 py-2 mb-6 bg-white/10 backdrop-blur-sm rounded-full border border-white/20">
             <span className="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></span>
-            <span className="text-sm text-white/90 font-medium">Aktif ve Hazır</span>
+            <span className="text-sm text-white/90 font-medium">Aktif ve Hazır!</span>
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
