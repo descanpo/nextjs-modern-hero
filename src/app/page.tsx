@@ -33,6 +33,18 @@ export default function Home() {
           </div>
         </div>
 
+        {/* Developer Info */}
+        <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 text-center">
+          <div className="animate-pulse">
+            <h3 className="text-2xl font-bold text-white mb-2 animate-fade-in-up">
+              Rıza Uzunkaya
+            </h3>
+            <p className="text-lg text-purple-300 font-medium animate-fade-in-up animation-delay-500">
+              Full Stack Developer
+            </p>
+          </div>
+        </div>
+
         {/* Scroll Indicator */}
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
           <div className="w-6 h-10 border-2 border-white rounded-full flex justify-center">
